@@ -1,4 +1,5 @@
-
+Mempetakan polusi air berdasarkan hasil AI yang diinput menggunakan kamera smartphone dan disimpan di database, serta user dapat melihat history log dari daerah tersebut
+Memetakan kualitas air di berbagai wilayah
 •	2702322853	Evan F Hartono
 •	2702320860	Arthaz Anthony
 •	2702347263	Rafi Hazel Tafara
